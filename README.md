@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-FIXME: description
+Tic tac toe implementation inspired by https://clojuredesign.club/episode/002-tic-tac-toe-state-in-a-row/
 
 ## Installation
 
